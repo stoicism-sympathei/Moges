@@ -1,7 +1,7 @@
 # **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
   
 
-### <div align="center">I'm Moges, a software engineer student [@ALX](https://intranet.alxswe.com/) in Doha, Qatar QR</div>  
+### <div align="center">I'm Moges, a software engineer [@ALX](https://intranet.alxswe.com/) in Doha, Qatar QR</div>  
   
 <p align="center">
   <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=Stoicism-Sympatheia&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true&hide=prs,issues">
